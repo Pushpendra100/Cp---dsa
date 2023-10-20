@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iomanip": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}
